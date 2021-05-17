@@ -1,0 +1,10 @@
+FRM-30203: No items on block PACKAGE.
+FRM-30407: Block must have at least one database item.
+Block: PACKAGE
+FRM-30113: Block must have non-query-only database item.
+Block: PACKAGE
+FRM-30188: No initial value given, and other values are not allowed (item PACKAGE1.PCK_ID).
+List PCK_ID
+Block: PACKAGE1
+
+Created form file C:\Users\soumyodeep\Downloads\New Folder\MODULE9.fmx

@@ -1,0 +1,5 @@
+FRM-30188: No initial value given, and other values are not allowed (item DEMAND_REPORT.DEMAND_TOUR_ID).
+List DEMAND_TOUR_ID
+Block: DEMAND_REPORT
+
+Created form file F:\Sql\New Folder\MODULE2.fmx

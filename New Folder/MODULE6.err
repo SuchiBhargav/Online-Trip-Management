@@ -1,0 +1,6 @@
+FRM-30407: Block must have at least one database item.
+Block: PASSENGER_DETAILS
+FRM-30113: Block must have non-query-only database item.
+Block: PASSENGER_DETAILS
+
+Created form file C:\Users\soumyodeep\Downloads\New Folder\MODULE6.fmx
